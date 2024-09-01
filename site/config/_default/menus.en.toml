@@ -16,19 +16,3 @@ name = "Contact"
 pageRef = "/contact"
 weight = 3
 
-
-# footer menu
-[[footer]]
-name = "About"
-pageRef = "/about"
-weight = 2
-
-[[footer]]
-name = "Contact"
-pageRef = "/contact"
-weight = 3
-
-[[footer]]
-name = "Privacy Policy"
-pageRef = "/privacy-policy"
-weight = 4
