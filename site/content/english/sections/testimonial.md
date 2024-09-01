@@ -1,31 +1,36 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "The Players"
+description: "Who are the actors shaping the course of future history?"
 
-# Testimonials
+ # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Lyle Lee"
+    designation: "Arms Merchant"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Darling, pass me that glass of wine. When was the last time you remember being as alive as right this moment?"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Kayla Koss"
+    designation: "Weaver"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "It's 100m from here to my bedroom. We've got a no firearms policy at work but you try that again, you better start running."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "AT Pralada"
+    designation: "General"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Get back into formation. Death is here and the only chance you have is to stand your ground and look her in the eye."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Sarah Roxenbury"
+    designation: "Socialite"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Don't leave. I don't feel safe by myself. I need someone to watch over me. Please stay. Stay with me."
 
-# don't create a separate page
+  - name: "Theodore Sharma"
+    designation: "Capitalist"
+    avatar: "/images/avatar-sm.png"
+    content: "I don't have any money to give you. You want funding? Go learn how to be the hard-nosed arsehole."
+
+ # don't create a separate page
 _build:
   render: "never"
 ---
