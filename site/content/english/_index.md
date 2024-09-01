@@ -2,13 +2,9 @@
 # Banner
 banner:
   title: "The Synchronicity Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
-  button:
-    enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
-
+  content: "A history of our time, in the greatest period to be alive."
+  image: "/images/aaa-banner-0.png"
+  
 # Features
 features:
   - title: "What's Included in Hugoplate"
