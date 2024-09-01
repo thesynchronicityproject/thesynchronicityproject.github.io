@@ -2,11 +2,24 @@
 
 ## Overview
 
-## Technical
 
-- [Template.md](template.md)
+## Scripts
 
+- [A00001 - Framework]()
+- 
+
+## Website
+
+- [How to Customise](template.md)
+- []
+
+
+
+## Attributions
+
+- [Banner](https://www.freepik.com/free-ai-image/digital-art-style-illustration-mental-health-day-awareness_316950292.html)
 ## Resources
+
 
 #### Inspirations
 
