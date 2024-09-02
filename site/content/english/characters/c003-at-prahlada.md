@@ -3,4 +3,4 @@ title: Abhay Taran Prahlada
 
 ---
 
-General A. T. Prahlada is the titular figure within the OM Planets. Born from Union parentage, he cares for the Organoids and launches Project Kalki so that a fact finding mission can be resulted to stem the virus and to save humanity.
+Born from Union parentage, General A. T. Prahlada is the titular figure within the OM Planets. He was the originator for Project Kalki, a secretive fact finding mission to find the origins of the virus and to save humanity.
