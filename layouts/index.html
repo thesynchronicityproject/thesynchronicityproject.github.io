@@ -28,16 +28,28 @@
           <div class="col-12">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
           </div>
-          <div class="lg:col-7 md:col-9 mb-8 text-center">
-            <p class="mb-8">
-              {{ .body | markdownify }}
-            </p>
-          </div>
         </div>
       </div>
     </section>
   {{ end }}
   <!-- /Banner -->
+  
+  <!-- Overview -->
+  <section class="section">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="lg:col-7 md:col-9 mb-8 text-center">
+          <h2 class="mb-4">
+            Overview
+          </h2>
+          <p class="mb-8 text-lg">
+            Welcome to The Synchronicity Project, a science fiction space opera as well as an open forum binding storytelling, grassroots participation and contribution within the current social media landscape.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /Overview -->
   
   <!-- Social Media -->
   <section class="section">

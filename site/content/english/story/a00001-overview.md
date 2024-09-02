@@ -1,5 +1,5 @@
 ---
-title: John Doe
+title: "Overview and Framework"
 email: johndoe@email.com
 image: "/images/avatar.png"
 description: this is meta description
