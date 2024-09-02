@@ -2,7 +2,7 @@
 title: "What is this?"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/3d-rendering-dark-earth-space.png"
+image: "/images/3d-rendering-dark-earth-space-2.png"
 draft: false
 ---
 
