@@ -28,6 +28,11 @@
           <div class="col-12">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
           </div>
+          <div class="lg:col-7 md:col-9 mb-8 text-center">
+            <p class="mb-8">
+              {{ .body | markdownify }}
+            </p>
+          </div>
         </div>
       </div>
     </section>

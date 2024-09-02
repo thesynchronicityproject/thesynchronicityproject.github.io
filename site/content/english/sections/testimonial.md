@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "The Personalities"
+title: "The Characters"
 description: "Who are the actors shaping the course of future history?"
 
  # Testimonials
