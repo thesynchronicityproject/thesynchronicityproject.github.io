@@ -12,8 +12,8 @@ pageRef = "/overview"
 weight = 2
 
 [[main]]
-name = "Content"
-pageRef = "/authors"
+name = "Pages"
+pageRef = "/pages"
 weight = 3
 
 [[main]]
