@@ -32,6 +32,31 @@
       </div>
     </section>
   {{ end }}
+  <!-- /Banner -->
+  
+  <!-- Social Media -->
+  <section class="section">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="lg:col-7 md:col-9 mb-8 text-center">
+          <h2 class="mb-4">
+            Recent Instagram Posts
+          </h2>
+          <!--p class="mb-8 text-lg">
+            Follow 
+          </p-->
+          <div data-behold-id="mFtHIWcOL6tlk5AOx9Dn"></div>
+          <script>
+            (() => {
+              const d=document,s=d.createElement("script");s.type="module";
+              s.src="https://w.behold.so/widget.js";d.head.append(s);
+            })();
+          </script>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /Social Media -->
   
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
@@ -141,27 +166,5 @@
   {{ end }}
   <!-- /Testimonials -->
   
-  <!-- /Social Media -->
-  <section class="section">
-    <div class="container">
-      <div class="row justify-center">
-        <div class="lg:col-7 md:col-9 mb-8 text-center">
-          <h2 class="mb-4">
-            Social Media
-          </h2>
-          <p class="mb-8 text-lg">
-            Visit our Instagram
-          </p>
-          <div data-behold-id="mFtHIWcOL6tlk5AOx9Dn"></div>
-          <script>
-            (() => {
-              const d=document,s=d.createElement("script");s.type="module";
-              s.src="https://w.behold.so/widget.js";d.head.append(s);
-            })();
-          </script>
-        </div>
-      </div>
-    </div>
-  </section>
   
 {{ end }}
