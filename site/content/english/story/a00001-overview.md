@@ -1,7 +1,5 @@
 ---
-title: "A00001 - Overview and Framework"
-email: johndoe@email.com
-description: ""
+title: "Overview and Framework"
 links:
   - name: script
     icon: fa-brands fa-google
@@ -10,7 +8,6 @@ links:
   - name: video
     icon: fa-brands fa-instagram
     link: https://www.instagram.com/p/C_KGw2zP1nE/
-_image: "/images/avatar.png"
 
 ---
 
