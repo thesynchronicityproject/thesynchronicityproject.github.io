@@ -1,6 +1,6 @@
 ---
-title: Abhay Taran Prahlada
+title: Kayla Koss
 
 ---
 
-General A. T. Prahlada is the titular figure within the OM Planets. Born from Union parentage, he cares for the Organoids and launches Project Kalki so that a fact finding mission can be resulted to stem the virus and to save humanity.
+Kayla is a primary protagonist of the story. She is the leader of a squad of military data scientists - the weavers, whose mission is to go back in history in a simulation to give meaning to observation data from simulated history
