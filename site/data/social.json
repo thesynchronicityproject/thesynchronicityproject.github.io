@@ -11,14 +11,16 @@
       "link": "https://www.tiktok.com/@thesynchronicityp"
     },
     {
-      "name": "youtube",
-      "icon": "fab fa-youtube",
-      "link": "https://www.youtube.com/@thesynchronicityproject-p2v"
-    },
-    {
       "name": "github",
       "icon": "fab fa-github",
       "link": "https://github.com/thesynchronicityproject/"
+    }
+  ],
+  "other": [
+    {
+      "name": "youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/@thesynchronicityproject-p2v"
     }
   ]
 }
