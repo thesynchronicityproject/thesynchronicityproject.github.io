@@ -2,7 +2,7 @@
 title: "S00005 - The Cell"
 links:
   - name: script
-    icon: fa-brands fa-google
+    icon: fa fa-file-text
     link: https://docs.google.com/document/d/1tZ28hj_R52XjdxdNQxdmyIL5fwibdZ6gCBPbp1gq1RU/edit?usp=sharing
 
 

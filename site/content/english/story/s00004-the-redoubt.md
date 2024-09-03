@@ -2,11 +2,11 @@
 title: "S00004 - The Redoubt"
 links:
   - name: script
-    icon: fa-brands fa-google
+    icon: fa fa-file-text
     link: https://docs.google.com/document/d/11_-EhEljeZntaED_pbN1ZxbSJpCbNxrPJVdFOHyIavg/edit?usp=sharing
 
   - name: video
-    icon: fa-brands fa-instagram
+    icon: fa fa-file-video-o
     link: https://www.instagram.com/p/C_MY5hEyhti/
 
 ---

@@ -2,15 +2,15 @@
 title: "S00003 - The Translator"
 links:
   - name: script
-    icon: fa-brands fa-google
+    icon: fa fa-file-text
     link: https://docs.google.com/document/d/1VzzJPH4PGu8Bh0kvnbIvm1dfMVKnwAkhbuw5q5tAD40/edit?usp=sharing
 
   - name: video-part-1
-    icon: fa-brands fa-instagram
+    icon: fa fa-file-video-o
     link: https://www.instagram.com/p/C_Optn7qGTd/
     
   - name: video-part-2
-    icon: fa-brands fa-instagram
+    icon: fa fa-file-video-o
     link: https://www.instagram.com/p/C_Ot2wSKN8s/
 
 ---

@@ -2,15 +2,15 @@
 title: "S00001 - The Beach"
 links:
   - name: script
-    icon: fa-brands fa-google
+    icon: fa fa-file-text
     link: https://docs.google.com/document/d/1L8NPwnl53gT_ABAsO4qejmStS7qMOjGCInPDEHgoCXY/edit?usp=share_link
 
   - name: video-part-1
-    icon: fa-brands fa-instagram
+    icon: fa fa-file-video-o
     link: https://www.instagram.com/p/C_K0xUyvhQF/
     
   - name: video-part-2
-    icon: fa-brands fa-instagram
+    icon: fa fa-file-video-o
     link: https://www.instagram.com/p/C_K3PMwvhMS/
 
 ---

@@ -2,11 +2,11 @@
 title: "Overview and Framework"
 links:
   - name: script
-    icon: fa-brands fa-google
+    icon: fa fa-file-text
     link: https://docs.google.com/document/d/117XgpbAxGJjziC5y0CT98ZtnVZLxN3MQ7futAhaC7X0/edit?usp=share_link
 
   - name: video
-    icon: fa-brands fa-instagram
+    icon: fa fa-file-video-o
     link: https://www.instagram.com/p/C_KGw2zP1nE/
 
 ---

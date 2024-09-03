@@ -2,7 +2,7 @@
 title: "S00005 - The Pussy Wagon"
 links:
   - name: script
-    icon: fa-brands fa-google
+    icon: fa fa-file-text
     link: https://docs.google.com/document/d/1A-Ssk2xBNehRzGA3QqLLt30oXPXLlTAfpo7crtGjbN0/edit?usp=sharing
 
 ---
